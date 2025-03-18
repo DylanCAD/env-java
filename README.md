@@ -2,7 +2,7 @@
 
 ## Installation
 1. Installer JDK 17+
-2. Cloner le projet : `git clone https://github.com/utilisateur/projet.git`
+2. Cloner le projet : `git clone https://github.com/DylanCAD/env-java.git`
 3. Importer dans IntelliJ IDEA
 
 ## Commandes utiles
